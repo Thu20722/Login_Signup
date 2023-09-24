@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name = "my_primary">#D6A8E3</color>
+    <color name="my_secondary">#B6D5ED</color>
+    <color name = "my_third" >#E86FC9</color>
+    <color name="my_for">#E0A1EC</color>
+</resources>
