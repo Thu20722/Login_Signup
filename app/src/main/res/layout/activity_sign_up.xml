@@ -48,7 +48,7 @@
 
         <TextView
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="45dp"
             android:text="Sign up"
             android:textColor="@color/my_third"
             android:textSize="32dp"
@@ -56,7 +56,7 @@
 
         <View
             android:layout_width="wrap_content"
-            android:layout_height="30dp" />
+            android:layout_height="15dp" />
 
         <EditText
             android:id="@+id/username"
